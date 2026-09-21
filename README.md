@@ -6,8 +6,8 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HADESL33T/HADESL33T/main/profile-summary-card-output/github_dark/0-profile-details.svg"  />
-  <img src="https://raw.githubusercontent.com/HADESL33T/HADESL33T/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"  />
+  <img src="https://raw.githubusercontent.com/HADESL33T/HADESL33T/main/profile-summary-card-output/ocean_dark/0-profile-details.svg"  />
+  <img src="https://raw.githubusercontent.com/HADESL33T/HADESL33T/main/profile-summary-card-output/ocean_dark/1-repos-per-language.svg"  />
 </div>
 
 ###
