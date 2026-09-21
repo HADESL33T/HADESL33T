@@ -1,4 +1,4 @@
-<h2 align="center">Unknow</h2>
+<h2 align="center">Unknown</h2>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HADESL33T&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HADESL33T&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="![](https://raw.githubusercontent.com/HADESL33T/HADESL33T/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)"  />
 </div>
 
 ###
