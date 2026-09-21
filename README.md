@@ -7,7 +7,7 @@
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HADESL33T&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="![](https://raw.githubusercontent.com/HADESL33T/HADESL33T/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)"  />
+  <img src="https://raw.githubusercontent.com/HADESL33T/HADESL33T/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"  />
 </div>
 
 ###
