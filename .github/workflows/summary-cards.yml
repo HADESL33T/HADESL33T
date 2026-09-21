@@ -1,12 +1,15 @@
 name: GitHub-Profile-Summary-Cards
 on:
   schedule:
-    - cron: "0 0 * * *"   # ตั้งเวลาให้รันทุกวันเที่ยงคืน (UTC)
-  workflow_dispatch:       # เปิดปุ่มให้เรากดสั่งรันเองได้
+    - cron: "0 0 * * *"   # รันทุกวันเที่ยงคืน (UTC)
+  workflow_dispatch:       # เปิดปุ่มให้กดรันเอง
+permissions:
+  contents: write          # ให้ robot มีสิทธิ์เขียนไฟล์ลง repo
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4   # หิ้ว repo เข้ามาให้ robot ทำงานก่อน
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
